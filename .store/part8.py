@@ -1,8 +1,0 @@
-w1 = window_about()  # about
-w2 = window_update()  # update
-w3 = MyWidget()
-action1.triggered.connect(w1.activate)
-action2.triggered.connect(w2.activate)
-action3.triggered.connect(w3.activate)
-app.setStyleSheet(style_sheet_ori)
-app.exec()
