@@ -1,4 +1,4 @@
-# Paprika
+# 🌶Paprika: A Timer for Apps and Music
 
 1. 不可熄屏使用；
 2. 需开启 Accessibility 和 Full Disk Access 权限（以给其他软件下命令，需要在第一次打开后再去系统设置中打开，这样系统才有记忆。第一次打开时应该会有一个报错弹窗，关闭即可。）；
